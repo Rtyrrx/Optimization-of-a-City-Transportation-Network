@@ -2,10 +2,9 @@
 ## Minimum Spanning Tree Analysis
 
 **Course:** Design and Analysis of Algorithms  
-**Author:** [Your Name]  
-**Student ID:** [Your ID]  
+**Author:** Bek Madias
+**Group:** SE-2430
 **Date:** October 26, 2025  
-**GitHub Repository:** [Your Repository URL]
 
 ---
 
